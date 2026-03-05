@@ -43,8 +43,8 @@ namespace Patrient_Record
         private List<string> medicationsList;
         private string smtpServer = "smtp.gmail.com"; // Example: smtp.gmail.com
         private int smtpPort = 587; // Example: 587 for Gmail
-        private string smtpUsername = "staffclinic27@gmail.com"; // Replace with your email address
-        private string smtpPassword = "fordasystemonleh"; // Replace with your email password
+        private string smtpUsername = " "; // Replace with your email address
+        private string smtpPassword = " "; // Replace with your email password
         private PrintDocument printDocument = new PrintDocument();
         private RichTextBox richTextBox1 = new RichTextBox();
         private PictureBox pictureBox2 = new PictureBox();
@@ -2605,4 +2605,5 @@ Seal/Stamp:
         }
     }
 }
+
 
