@@ -1,7 +1,7 @@
 # Patient-Record-System
 Appointment and Record System for LCC1 Medical and Diagnostic Center with email and SMS notifications. Manages patient appointments and medical records, improving workflow and communication. Includes automated alerts and a print feature for patient records and medical certificates.
 
-🏥 Appointment and Record System
+🏥 **Appointment and Record System**
 
 An Appointment and Record Management System developed for LCC1 Medical and Diagnostic Center. The system helps manage patient appointments, organize medical records, and improve communication between the clinic and patients.
 
